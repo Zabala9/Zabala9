@@ -31,8 +31,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" />
 </div>
- 
-[//]: <> (java-logo https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg)
 
 ---
 
