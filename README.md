@@ -38,5 +38,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Zabala9)](https://git.io/streak-stats)
 
-![Stacks](https://github-readme-stats.vercel.app/api?username=Zabala9&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zabala9&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Stacks](https://github-readme-stats-sigma-five.vercel.app/api?username=Zabala9&show_icons=true)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Zabala9&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
