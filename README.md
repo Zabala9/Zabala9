@@ -12,7 +12,7 @@
 
 ### :man_technologist: About Me:
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Colombia.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Colombia. 🇨🇴
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Zabala9-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/steven-zabala-4b149b267/)
 - :zap:In my spare time I like to watch soccer games and I also like to ride my motorcycle and explore new places.
 
